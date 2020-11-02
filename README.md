@@ -1,2 +1,5 @@
 # Java-MVC-DrawShapes
-IN PROGRESS
+Java Draw Shapes Program implementing MVC architecture
+
+Tools used:
+Eclipse IDE
